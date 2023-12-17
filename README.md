@@ -1,2 +1,2 @@
 # Console-OS-Emulator
-Эмулятор для запуска Консольных ОС написанный с помощью OSBase
+Emulator for running Console OS written with OSBase
